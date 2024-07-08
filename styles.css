@@ -1,5 +1,5 @@
 *{
-  margin top:5PX+ ;
+  margin top:0;
   padding: 0;
     text-align: center;
 
@@ -7,7 +7,10 @@
 .inline {
     display:  inline;
     margin-right: 10px;
-
-
-    
+   
+}
+,99{
+  padding: 50%;
+  margin: auto;
+   
 }
